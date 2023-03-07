@@ -4,7 +4,8 @@
   "description": "Bu repo [Kodluyoruz](http://www.kodluyoruz.org/) NodeJs Eğitimi için oluşturulmuştur. İçerisinde bir adet README ve bir adet index.js dosyası barındırıyor.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,6 @@
   },
   "homepage": "https://github.com/fatihkonuk/kodluyoruzKoaWebServer#readme",
   "dependencies": {
-    "kao": "^1.3.29"
+    "koa": "^2.14.1"
   }
 }

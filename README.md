@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](http://www.kodluyoruz.org/) NodeJs Eğitimi için oluşturu
 ## Installation
 Öncelikle projeyi clonelayın.
 ```
-git clone https://github.com/fatihkonuk/kodluyoruzKaoWebServer.git
+git clone https://github.com/fatihkonuk/kodluyoruzKoaWebServer.git
 ```
 
 ## Usage
@@ -12,7 +12,7 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 ```
-cd kodluyoruzKaoWebServer
+cd kodluyoruzKoaWebServer
 code .
 ```
 
