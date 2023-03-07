@@ -1,4 +1,4 @@
-# Kodluyoruz FS Modül Ödevi
+# Kodluyoruz Koa Web Server Ödevi
 Bu repo [Kodluyoruz](http://www.kodluyoruz.org/) NodeJs Eğitimi için oluşturulmuştur. İçerisinde bir adet README ve bir adet index.js dosyası barındırıyor.
 
 ## Installation
